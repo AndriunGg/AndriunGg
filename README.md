@@ -27,9 +27,10 @@
         </a>
       </div>
     </div>
-  </div>
- <!-- Imagen a la izquierda -->
+    <!-- Imagen a la izquierda -->
     <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/dorohedoro_fixed.jpg" width="25%" align="left" />
+  </div>
+ 
   <!-- Imagen adicional y texto debajo -->
   <br><br>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
