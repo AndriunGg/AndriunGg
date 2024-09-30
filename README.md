@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
     <!-- Texto y redes sociales a la izquierda -->
     <div style="text-align: left; margin-right: 20px;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1300&height=140&lines=Hi%2C+Hi;I'm+AndriunGg" width="70%" />
@@ -28,12 +28,10 @@
         </a>
       </div>
     </div>
-  <!-- Imagen a la derecha -->
-    <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/dorohedoro_fixed.jpg" width="25%" style="flex-shrink: 0;" />
+ <!-- Imagen a la derecha -->
+    <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/dorohedoro_fixed.jpg" width="25%" style="margin-left: 20px;"/>
   </div>
 
   <!-- Imagen adicional y texto debajo -->
   <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br><br>
 </div>
