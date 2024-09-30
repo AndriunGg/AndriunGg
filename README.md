@@ -29,7 +29,7 @@
       </div>
     </div>
      <!-- Imagen a la izquierda -->
-    <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/dorohedoro_fixed.jpg" width="25%" align="left" />
+    <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/dorohedoro_fixed.jpg" width="25%"  />
   </div>
 
   <!-- Imagen adicional y texto debajo -->
