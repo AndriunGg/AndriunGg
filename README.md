@@ -2,7 +2,7 @@
 <img src="https://github.com/AndriunGg/AndriunGg/blob/main/img/042ab0f4083bd7d3c7d6fbe8135377a7.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1300&height=140&lines=Hi%2C+Hi;I'm+AndriunGg" width="70%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+Hi;I'm+AndriunGg)](https://git.io/typing-svg)
+
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
