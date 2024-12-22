@@ -9,7 +9,6 @@
     💻 System programming languages • DataBase
     📖 ADSI • Software programming
     🎮 Music • Games • Anime • Code • Teach
-    🧡 Eternal lover of Nat
     
 </pre>
 <br><br><br>
