@@ -58,6 +58,8 @@
                 </tr>
             </table>
         </div>
+      
+  ![snake gif](https://github.com/AndriunGg/AndriunGg/blob/output/github-snake-dark.svg)
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/AndriunGg/AndriunGg/main/img/dorohedoro_fixed.jpg" width="100%" alt="Dorohedoro" />
